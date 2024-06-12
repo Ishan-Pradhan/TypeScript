@@ -1,0 +1,12 @@
+11
+32D:\Typescript\Web Framework\dist133625492791570776 1
+45D:\Typescript\Web Framework\package-lock.json133625467934337441 0
+38D:\Typescript\Web Framework\index.html133625453261506380 0
+31D:\Typescript\Web Framework\src133625452438631224 1
+40D:\Typescript\Web Framework\src\index.ts133625492790109977 0
+40D:\Typescript\Web Framework\package.json133625468237359280 0
+34D:\Typescript\Web Framework\models133625469565452142 1
+43D:\Typescript\Web Framework\models\Users.ts133625492251222938 0
+43D:\Typescript\Web Framework\dist\index.html133625492107064643 0
+50D:\Typescript\Web Framework\dist\index.b71e74eb.js133625492791519495 0
+54D:\Typescript\Web Framework\dist\index.b71e74eb.js.map133625492791560731 0
